@@ -59,13 +59,28 @@
   }
   
   .button {
-    background-color: #befa00;
+    background-color: rgb(101, 150, 240);
     border: none;
     font-size: 1.5rem;
     padding: 10px;
     border-radius: 5px;
     margin: 50px 0;
     cursor: pointer;
+  }
+  .back {
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+    width: fit-content;
+    background-color: rgb(101, 150, 240);
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin: 50px 0;
+    cursor: pointer;
+  }
+  
+  .back p {
+    margin-left: 10px;
   }
   
   @media (max-width: 768px) {

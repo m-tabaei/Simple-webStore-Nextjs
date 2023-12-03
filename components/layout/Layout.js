@@ -15,7 +15,7 @@ function Layout({ children }) {
         <a href="https://github.com/m-tabaei" target="_blank">
           Mtabaei Creator
         </a>{" "}
-        Next.js  | Store Project &copy;
+        |  Next.js Store Project &copy;
       </footer>
     </>
   );
